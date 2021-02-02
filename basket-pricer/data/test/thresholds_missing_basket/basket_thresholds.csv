@@ -1,0 +1,11 @@
+# This is a comment.
+# Empty lines are also ignored.
+
+# This file defines basket price reporting thresholds.
+
+# Format: basket_name:string, last_price_percent_threshold:double, mid_price_percent_threshold:double
+# Ex: last_price_percent_threshold=0.2 means report last price change for basket if changed by at least 0.2%.
+
+b1,3.0,5.0
+# This will make test fail.
+#b2,2.0,3.0

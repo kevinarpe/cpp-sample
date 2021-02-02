@@ -1,0 +1,11 @@
+# This is a comment.
+# Empty lines are also ignored.
+
+# This file defines baskets by tickers and number of shares.
+
+# Format: basket_name:string, ticker:string, num_shares:double
+
+b1,c2,100
+b1,c1,200
+b2,c1,50
+b2,c3,25
